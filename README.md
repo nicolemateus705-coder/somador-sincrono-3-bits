@@ -56,4 +56,4 @@ O circuito completo está disponível no arquivo `.circ` deste repositório.
 
 ## Contexto
 
-Projeto desenvolvido como atividade acadêmica na disciplina de circuitos digitais.
+Projeto desenvolvido como atividade acadêmica na disciplina de arquitetura de computadores.
